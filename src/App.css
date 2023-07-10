@@ -1,0 +1,26 @@
+body {
+    background: silver;
+}
+h1 {
+    text-align: center;
+    -webkit-text-stroke: medium;
+}
+.simpsonDiv {
+    background: #416c6c;
+    text-align: center;
+    margin: 20px;
+    border: 3px solid #1f1f1f;
+    border-radius: 10px;
+    color: #1f1f1f;
+}
+
+.RandMDiv {
+    background: #133a3a;
+    text-align: center;
+    margin: 20px;
+    border: 3px solid #1f1f1f;
+    border-radius: 10px;
+    color: #beb3b3;
+}
+
+
