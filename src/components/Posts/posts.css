@@ -1,0 +1,30 @@
+.postDiv {
+    background: #1f1f1f;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: silver;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 10px ;
+    padding: 10px;
+    font-size: 20px;
+    width: 700px;
+    margin: 10px auto;
+}
+.detailsDiv {
+    background: #000;
+    margin: 20px;
+    border-radius: 10px;
+}
+.btn {
+    background: #605555;
+    cursor: pointer;
+    border: 1px solid #605555;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    margin-top: 7px;
+    font-size: medium;
+    text-transform: uppercase;
+}

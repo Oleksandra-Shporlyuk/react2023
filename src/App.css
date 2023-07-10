@@ -1,0 +1,23 @@
+body {
+    background: silver;
+}
+
+h1 {
+    text-align: center;
+    background: #416c6c;
+    width: 600px;
+    margin: 40px auto;
+    border-radius: 10px;
+
+}
+
+.launchDiv {
+    background: #1f1f1f;
+    text-align: center;
+    width: 700px;
+    margin: 20px auto;
+    color: #1f1f1f;
+    text-transform: uppercase;
+    border: 3px solid #1a1919;
+    border-radius: 10px ;
+}
